@@ -56,7 +56,7 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active" style="
                          margin-left: 210px ">
-                        <img src="Img/Desayuno-jjagtenberg-103124.jpg" class="d-block" style=" width: 70%; height: auto; ">
+                        <img src="https://img.freepik.com/foto-gratis/majestuoso-pico-montana-tranquilo-paisaje-invernal-generado-ia_188544-15662.jpg" class="d-block" style=" width: 70%; height: auto; ">
                     </div>
                     <div class="carousel-item">
                         <img src="Img/1366_2000.jpg" class="d-block "  style=" width: 70%; height: auto; margin-left: 16%;">
