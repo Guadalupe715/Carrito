@@ -1,0 +1,5 @@
+Modelo\Producto.class
+Modelo\Pedido.class
+Modelo\Cliente.class
+Config\NewMain.class
+Config\ConexionBDD.class
